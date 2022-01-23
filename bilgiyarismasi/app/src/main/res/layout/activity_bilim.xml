@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".BilimActivity">
+
+    <RelativeLayout
+        android:id="@+id/baslik"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:background="#ffffff">
+
+        <TextView
+            android:id="@+id/puan"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="10dp"
+            android:text="Skor:0"
+            android:textColor="#4169E1"
+            android:textSize="20sp"></TextView>
+
+        <TextView
+            android:id="@+id/isim_oyun"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="10dp"
+            android:text="İsim"
+            android:textColor="#4169E1"
+            android:textSize="20sp"></TextView>
+    </RelativeLayout>
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@id/alt"
+        android:layout_below="@id/baslik"
+        android:background="@drawable/background"
+        android:padding="16dp">
+
+        <ImageButton
+            android:id="@+id/anasayfayagit"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_alignParentRight="true"
+            android:background="@drawable/home"></ImageButton>
+
+        <TextView
+            android:id="@+id/sorular"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:text="SORULAR"
+            android:textColor="#ffffff"
+            android:textSize="20sp"></TextView>
+
+        <RelativeLayout
+            android:id="@+id/gec"
+            android:layout_width="80dp"
+            android:layout_height="40dp"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentBottom="true"
+            android:padding="5dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:text="GEÇ"
+                android:textColor="#ffffff"></TextView>
+
+            <TextView
+                android:id="@+id/gecsayi"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:text="0"
+                android:textColor="#ffffff"></TextView>
+
+        </RelativeLayout>
+
+
+    </RelativeLayout>
+
+
+
+
+
+    <LinearLayout
+        android:id="@+id/alt"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_alignParentBottom="true"
+        android:background="#ffffff"
+        android:orientation="horizontal">
+
+        <ImageButton
+            android:src="@drawable/ic_action_dogru"
+            android:id="@+id/dogruq"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_margin="3dp"
+            android:layout_weight="1"
+            android:background="#00FF00">
+        </ImageButton>
+        <ImageButton
+            android:src="@drawable/ic_action_yanlis"
+            android:id="@+id/yanlisq"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_margin="3dp"
+            android:layout_weight="1"
+            android:background="#FF0000">
+        </ImageButton>
+    </LinearLayout>
+
+
+</RelativeLayout>

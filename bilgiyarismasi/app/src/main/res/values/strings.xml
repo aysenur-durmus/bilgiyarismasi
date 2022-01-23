@@ -1,0 +1,70 @@
+<resources>
+    <string name="app_name">bilgiyarismasi</string>
+
+    <string name="b1">Teleskopu, Hollandalı Zacharias Janssen bulmuştur.</string>
+    //false
+    <string name="b2">Havanın cisimlere uyguladığı kaldırma kuvvetini ölçen alete Barometre denir.</string>
+    //true
+    <string name="b3">Evrende bir nesnenin ulaşabiliceği maksimum hız ışık hızı olarak adlandırılır.</string>
+    //true
+    <string name="b4">En genç bilim adamı ünvanını elinde tutan Türk bilim adamı Oktay Sinanoğludur.</string>
+    //true
+    <string name="b5">Kalsiyum elementinin simgesi Ka dır.</string>//false
+    <string name="b6">Hastanın isteğiyle bir hekimce yaşamına son verilmesine ötanazi denir.</string>
+    //true
+    <string name="b7">Atom fiziği, atom çekirdeğinin yapısını inceler.</string>//false
+    <string name="b8">Bir cismin sıvı halden katı hale geçmesine kırağılaşma denir.</string>//false
+    <string name="b9">Alfred Nobel, dinamiti icat eden kişidir.</string>/true
+    <string name="b10">Mevsimin başında ilk yetişen meyve sebzeye Turfanda denir.</string>//true
+
+
+    <string name="c1">Sürüldükten sonra birkaç yıl dinlendirilmeye bırakılan tarlaya Nadas denir.</string>
+    //true
+    <string name="c2">Güneş sistemindeki uydusu olmayan gezegenler Merkür ve Neptündür.</string>
+    //false
+    <string name="c3">Güney yönüne eski zamanlarda ne isim Cenupdur</string>
+    //true
+    <string name="c4">Türkiyenin en büyük tatlı su gölü Eğirdir Gölüdür.</string>//false
+    <string name="c5">Deniz suyunun, güneş ve ayın çekim kuvvetlerinin sonucunda yaptıkları periyodik hareketlere Medcezir denir.</string>
+    //true
+    <string name="c6">Bir yerin deniz seviyesinden olan yüksekliğine Rakım denir.</string>//true
+    <string name="c7">Gündüz gece eşitliğine Ekinoks denir.</string>//true
+    <string name="c8">Atlas okyanusu Dünyanın en büyük okyanusudur. </string>//false
+    <string name="c9">Buzullardan koparak, dev akıntılar halinde açık denizlerde yüzen buz parçalarına Aysberg denir.</string>
+    /true
+    <string name="c10">Kuzeydoğudan esen rüzgarlara Poyraz denir.</string>//true
+
+
+    <string name="s1">Uluslararası Basketbol Federasyonunun kısaltılmışına FİBA denir.</string>
+    //true
+    <string name="s2">Bir sporcunun resmi anlamlardaki karşılaşmalara katılabilmesi için kendisine verilen resmi belgeye Lisans denir.</string>
+    //true
+    <string name="s3">Yüzme, bisiklet ve atlamadan oluşan 3 branşın bir arada  yapıldığı spora Triatlon denir.</string>
+    //false
+    <string name="s4">Bir su topu takımının saha içinde 4 oyuncusu bulunur.</string>//false
+    <string name="s5">Masa tenisinde bir set 21 sayıda bitmektedir.</string>//true
+    <string name="s6">Basketbol de potadan geri gelen topu yakalama işlemine Ribaund denir.</string>
+    //true
+    <string name="s7">Bisiklet yarışlarının stadyum içinde yapılan kısmına Veledrom denir.</string>
+    //true
+    <string name="s8">Basketbolda hücum süresi 12 saniyedir.</string>//false
+    <string name="s9">Cemal Kamacı avrupa şampiyonu ilk Türk boksördür.</string>/true
+    <string name="s10">En küçük boylu yarış yelkenlisine Kadet denir.</string>//true
+
+
+    <string name="t1">Yeni Türk Devletinin ilk partisi Halk Fırkasıdır.</string>//true
+    <string name="t2">Osmanlıda sancakların yöneticisine Beylerbeyi denmektedir.</string>//false
+    <string name="t3">Türk-İslam devletlerinde merkezi yönetim; hükümdar,saray ve hükümetten meydana gelmektedir.</string>
+    //true
+    <string name="t4">Türkiye Cumhuriyetinin ilk özel bankası Ziraat bankasıdır.</string>//false
+    <string name="t5">Teşkilat-ı Esasiye Osmanlı Devletinin ilk anayasasıdır.</string>//false
+    <string name="t6">Halifelik 1924 tarihinde kaldırılmıştır.</string>//true
+    <string name="t7">Tanzimat Fermanı, 1. Abdülmecid zamanında ilan edilmiştir.</string>//true
+    <string name="t8">Osmanlıda padişah tahta çıkınca yapılan törene Kılıç Alayı denir.</string>
+    //false
+    <string name="t9">1. Dünya savaşı sonrası Almanya ile Versay Anlaşması imzalanmıştır.</string>
+    /true
+    <string name="t10">Uygurlara ait Türk destanına Türeyiş Destanı denir.</string>//true
+
+
+</resources>
